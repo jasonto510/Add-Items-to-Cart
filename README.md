@@ -1,6 +1,6 @@
 # Project Name
 
-> Project description
+> This repo will include the add items to cart function in Etsy
 
 ## Related Projects
 
